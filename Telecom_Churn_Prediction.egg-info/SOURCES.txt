@@ -1,0 +1,7 @@
+README.md
+setup.py
+Telecom_Churn_Prediction.egg-info/PKG-INFO
+Telecom_Churn_Prediction.egg-info/SOURCES.txt
+Telecom_Churn_Prediction.egg-info/dependency_links.txt
+Telecom_Churn_Prediction.egg-info/top_level.txt
+src/__init__.py
